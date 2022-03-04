@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="https://github.com/DYUUU/DYUUU/blob/main/font.css">
 
 <div align="center" style="
 font-family:DungGeunMo;
@@ -12,6 +13,7 @@ font-family:DungGeunMo;
   <div 
   style="
   width:60%; 
+  float:down;
   ">
   
   ![DYUUU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DYUUU&theme=github_dark&hide_border=true&border_radius=20&bg_color=000000&show_icons=true)  
